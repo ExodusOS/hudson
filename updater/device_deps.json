@@ -1,0 +1,7 @@
+{
+    "onclite": [
+        "android_device_xiaomi_onclite",
+        "android_kernel_xiaomi_onclite",
+		"android_vendor_xiaomi_onclite"
+    ]
+}
