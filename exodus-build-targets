@@ -1,5 +1,5 @@
 # LineageOS build target list
 # <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
 
-# Weekly 18.1
-onclite userdebug lineage-18.1 W
+# Weekly 19.1
+onclite userdebug lineage-19.1 W
